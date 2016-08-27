@@ -1,6 +1,6 @@
 ### ciekawostki i zadania dla tomka
 
-Ladny edytor do markdowna http://dillinger.io/
+Ladny edytor webowy do markdowna http://dillinger.io/
 
 
 TU BEDO RZECZY
