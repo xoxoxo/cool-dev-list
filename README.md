@@ -17,3 +17,9 @@ Rzeczy do zrobienia:
 
 3. na stronie uzyj normalizera lub resetcss po czym ustaw wlasne proste style na te elementy
     -przyklad jak moza wystylwoac strone tutaj http://jgthms.com/web-design-in-4-minutes/ (klikaj po kolei w linki 'first thing' etc)
+
+
+
+#### Ciekawe linkki
+
+https://css-tricks.com/examples/nth-child-tester/
