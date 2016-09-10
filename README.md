@@ -23,3 +23,7 @@ Rzeczy do zrobienia:
 #### Ciekawe linkki
 
 https://css-tricks.com/examples/nth-child-tester/
+
+https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame synchronizacja z odswiezaniem
+
+https://www.youtube.com/watch?v=8aGhZQkoFbQ event loop
