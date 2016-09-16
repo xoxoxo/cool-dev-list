@@ -22,6 +22,8 @@ Rzeczy do zrobienia:
 
 #### Ciekawe linkki
 
+https://developer.mozilla.org/en-US/ dokumentacja webowa i takie tam
+
 https://css-tricks.com/examples/nth-child-tester/
 
 https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame synchronizacja z odswiezaniem
