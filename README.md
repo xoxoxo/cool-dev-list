@@ -30,6 +30,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame sy
 
 https://www.youtube.com/watch?v=8aGhZQkoFbQ event loop
 
+https://speakerdeck.com/abhinavrastogi/next-gen-web-scaling-progressive-web-apps case study
+
 
 ### Ksiazki i Tipsy
 
