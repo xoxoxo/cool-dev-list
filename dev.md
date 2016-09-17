@@ -18,7 +18,7 @@ http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html - full stack r
 
 https://developer.mozilla.org/en-US/ 
 
-https://github.com/mxstbr/react-redux-links - react redux link list
+https://github.com/markerikson/react-redux-links - react redux link list
 
 
 ### Other Web Dev things to know or use
