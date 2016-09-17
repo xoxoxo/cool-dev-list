@@ -4,6 +4,8 @@
 
 http://tutorials.codebar.io/ - few beginners tutorial about html, js, ruby, python
 
+https://www.hackerrank.com - practice your dev skills
+
 http://buildwithreact.com/ - live coding react tutorial
 
 https://github.com/happypoulp/redux-tutorial - redux tutorial
@@ -19,17 +21,27 @@ https://developer.mozilla.org/en-US/
 https://github.com/mxstbr/react-redux-links - react redux link list
 
 
-### Other Web Dev
+### Other Web Dev things to know or use
+
+https://channel9.msdn.com/blogs/Marron/Time-Travel-Debugging-for-JavaScriptHTML - time travel debugging for js
 
 https://css-tricks.com/examples/nth-child-tester/ - nth child tester
 
 https://www.youtube.com/watch?v=8aGhZQkoFbQ - video about event loop in js
+
+https://www.toptal.com/react/interview-questions - 12 react intreview questions
 
 http://foreverframe.pl/how-does-async-work-in-javascript/ - how does async work in js
 
 https://sarcadass.github.io/granim.js/examples.html  gradients for web
 
 https://css-tricks.com/nerds-guide-color-web/?utm_source=dlvr.it about colors
+
+
+### Something to read/play
+
+https://chloe.re./ - blog about security
+https://xss-game.appspot.com/ - xss game
 
 
 ### Books && Tips
