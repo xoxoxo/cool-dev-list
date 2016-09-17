@@ -2,16 +2,21 @@
 
 ### Tutorials
 
-http://tutorials.codebar.io/ - few beiners tutorial about html, js, ruby, python
+http://tutorials.codebar.io/ - few beginners tutorial about html, js, ruby, python
 
-http://buildwithreact.com/ - react tutorial
+http://buildwithreact.com/ - live coding react tutorial
 
 https://github.com/happypoulp/redux-tutorial - redux tutorial
+
+http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html - full stack redux tutorial
+
 
 
 ### General & Docs
 
 https://developer.mozilla.org/en-US/ 
+
+https://github.com/mxstbr/react-redux-links - react redux link list
 
 
 ### Other Web Dev
