@@ -4,6 +4,8 @@
 
 http://tutorials.codebar.io/ - few beiners tutorial about html, js, ruby, python
 
+http://buildwithreact.com/ - react tutorial
+
 https://github.com/happypoulp/redux-tutorial - redux tutorial
 
 
