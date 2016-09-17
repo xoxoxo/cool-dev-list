@@ -1,4 +1,4 @@
-### This is curated list of cool links for designers and developers
+## This is curated list of cool links for designers and developers
 
 http://dillinger.io/  - MD online editor
 
