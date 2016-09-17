@@ -2,7 +2,9 @@
 
 ### Tutorials
 
-http://tutorials.codebar.io/
+http://tutorials.codebar.io/ - few beiners tutorial about html, js, ruby, python
+
+https://github.com/happypoulp/redux-tutorial - redux tutorial
 
 
 ### General & Docs
