@@ -20,3 +20,4 @@ http://www.jstips.co/ - daily js tips
 ### Books
 
 https://github.com/getify/You-Dont-Know-JS
+https://thoughtbot.com/playbook software design playbook 
