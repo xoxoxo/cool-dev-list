@@ -18,3 +18,8 @@ https://www.gitbook.com/book/ebay/mindpatterns/details ebay mind/design patterns
 
 ### Other cool design related things
 
+
+
+### Books
+
+https://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/ - list of free books for web designers
