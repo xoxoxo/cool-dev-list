@@ -20,6 +20,10 @@ https://developer.mozilla.org/en-US/
 
 https://github.com/markerikson/react-redux-links - react redux link list
 
+https://www.aslint.org/ - Accessibility and SEO checker
+
+https://www.dirtymarkup.com/ - make your css/html look nice
+
 
 ### Other Web Dev things to know or use
 
@@ -40,7 +44,10 @@ https://css-tricks.com/nerds-guide-color-web/?utm_source=dlvr.it about colors
 
 ### Something to read/play
 
+https://gdstechnology.blog.gov.uk/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/ - why we use progressive enhancment to build gov.uk
+
 https://chloe.re./ - blog about security
+
 https://xss-game.appspot.com/ - xss game
 
 
