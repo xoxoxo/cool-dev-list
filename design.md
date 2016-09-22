@@ -20,6 +20,7 @@ https://medium.com/git-out-the-vote/pantsuit-the-hillary-clinton-ui-pattern-libr
 
 ### Other cool design related things
 
+https://medium.theuxblog.com/when-card-ui-design-doesnt-work-f4343118d108#.jb3fon3jh - when card ui does not work
 
 
 ### Books
