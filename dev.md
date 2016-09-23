@@ -41,6 +41,7 @@ https://sarcadass.github.io/granim.js/examples.html  gradients for web
 
 https://css-tricks.com/nerds-guide-color-web/?utm_source=dlvr.it about colors
 
+https://gist.github.com/jonathanmoore/2640302 - list of share count api
 
 ### Something to read/play
 
