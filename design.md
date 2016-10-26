@@ -17,6 +17,7 @@ https://www.gitbook.com/book/ebay/mindpatterns/details ebay mind/design patterns
 
 https://medium.com/git-out-the-vote/pantsuit-the-hillary-clinton-ui-pattern-library-238e9bf06b54#.ctpac5pav clinton ui pattern library
 
+https://getmdl.io/index.html - material design library 
 
 ### Other cool design related things
 
