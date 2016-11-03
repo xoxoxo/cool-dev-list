@@ -12,6 +12,8 @@ https://github.com/happypoulp/redux-tutorial - redux tutorial
 
 http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html - full stack redux tutorial
 
+https://github.com/verekia/js-stack-from-scratch - js stack from scratch
+
 
 
 ### General & Docs
