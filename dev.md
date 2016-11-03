@@ -55,6 +55,8 @@ https://xss-game.appspot.com/ - xss game
 
 https://javascriptair.com/ - js radio/podcast
 
+https://hashnode.com/post/zero-to-one-how-i-mastered-javascript-and-how-you-can-too-ciuwmrw9j00r50q539clhhdj7 - how to master js
+
 
 ### Books & Tips
 
