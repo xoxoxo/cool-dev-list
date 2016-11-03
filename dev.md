@@ -49,9 +49,11 @@ https://gist.github.com/jonathanmoore/2640302 - list of share count api
 
 https://gdstechnology.blog.gov.uk/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/ - why we use progressive enhancment to build gov.uk
 
-https://chloe.re./ - blog about security
+https://chloe.re/ - blog about security
 
 https://xss-game.appspot.com/ - xss game
+
+https://javascriptair.com/ - js radio/podcast
 
 
 ### Books & Tips
