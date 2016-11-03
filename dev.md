@@ -54,7 +54,7 @@ https://chloe.re./ - blog about security
 https://xss-game.appspot.com/ - xss game
 
 
-### Books && Tips
+### Books & Tips
 
 http://www.jstips.co/ - daily js tips
 
