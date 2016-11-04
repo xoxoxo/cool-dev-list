@@ -66,3 +66,5 @@ https://github.com/getify/You-Dont-Know-JS book about js
 
 https://thoughtbot.com/playbook software design playbook 
 
+https://zapier.com/learn/the-ultimate-guide-to-remote-working/ - guide to remote working
+
