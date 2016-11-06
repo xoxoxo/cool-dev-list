@@ -18,6 +18,8 @@ https://github.com/verekia/js-stack-from-scratch - js stack from scratch
 
 ### General & Docs
 
+http://devdocs.io/ - dev docs
+
 https://developer.mozilla.org/en-US/ 
 
 https://github.com/markerikson/react-redux-links - react redux link list
