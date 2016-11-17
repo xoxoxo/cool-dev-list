@@ -24,6 +24,8 @@ https://developer.mozilla.org/en-US/
 
 https://github.com/markerikson/react-redux-links - react redux link list
 
+https://github.com/xgrommx/awesome-redux - redux related link list
+
 https://www.aslint.org/ - Accessibility and SEO checker
 
 https://www.dirtymarkup.com/ - make your css/html look nice
