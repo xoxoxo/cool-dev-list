@@ -22,6 +22,7 @@ https://getmdl.io/index.html - material design library
 ### Other cool design related things
 
 https://medium.theuxblog.com/when-card-ui-design-doesnt-work-f4343118d108#.jb3fon3jh - when card ui does not work
+http://thenextweb.com/dd/2015/04/10/how-to-design-websites-that-mirror-how-our-eyes-work/ - design website to mirror how eyes work
 
 
 ### Books
