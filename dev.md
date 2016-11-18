@@ -62,7 +62,7 @@ https://javascriptair.com/ - js radio/podcast
 https://hashnode.com/post/zero-to-one-how-i-mastered-javascript-and-how-you-can-too-ciuwmrw9j00r50q539clhhdj7 - how to master js
 
 
-### Books & Tips
+### Books (free) & Tips
 
 http://www.jstips.co/ - daily js tips
 
@@ -71,4 +71,6 @@ https://github.com/getify/You-Dont-Know-JS book about js
 https://thoughtbot.com/playbook software design playbook 
 
 https://zapier.com/learn/the-ultimate-guide-to-remote-working/ - guide to remote working
+
+http://speakingjs.com/es5/index.html - speaking javascript 
 
