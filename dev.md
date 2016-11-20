@@ -74,3 +74,5 @@ https://zapier.com/learn/the-ultimate-guide-to-remote-working/ - guide to remote
 
 http://speakingjs.com/es5/index.html - speaking javascript 
 
+http://eloquentjavascript.net/ - eloquent js
+
