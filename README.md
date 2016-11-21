@@ -8,7 +8,7 @@ https://github.com/xoxoxo/cool-dev-links/blob/master/design.md
 https://github.com/xoxoxo/cool-dev-links/blob/master/dev.md
 
 
-### Uncatorized
+### Uncategorized
 http://dillinger.io/  - MD online editor
 
 http://www.slacklist.info/ - slack channel list
