@@ -14,6 +14,7 @@ http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html - full stack r
 
 https://github.com/verekia/js-stack-from-scratch - js stack from scratch
 
+https://github.com/Developer-Y/cs-video-courses - list of cs video courses
 
 
 ### General & Docs
@@ -60,6 +61,8 @@ https://xss-game.appspot.com/ - xss game
 https://javascriptair.com/ - js radio/podcast
 
 https://hashnode.com/post/zero-to-one-how-i-mastered-javascript-and-how-you-can-too-ciuwmrw9j00r50q539clhhdj7 - how to master js
+
+https://codefights.com/ - code and fight vs friends and bots
 
 
 ### Books (free) & Tips
