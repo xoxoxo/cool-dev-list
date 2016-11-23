@@ -12,3 +12,5 @@ https://github.com/xoxoxo/cool-dev-links/blob/master/dev.md
 http://dillinger.io/  - MD online editor
 
 http://www.slacklist.info/ - slack channel list
+
+https://github.com/lukasz-madon/awesome-remote-job - remote job list
