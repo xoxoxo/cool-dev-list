@@ -79,3 +79,5 @@ http://speakingjs.com/es5/index.html - speaking javascript
 
 http://eloquentjavascript.net/ - eloquent js
 
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/ - js design patterns
+
