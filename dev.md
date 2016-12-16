@@ -31,6 +31,8 @@ https://www.aslint.org/ - Accessibility and SEO checker
 
 https://www.dirtymarkup.com/ - make your css/html look nice
 
+http://cssreference.io/ - visual guide to CSS
+
 
 ### Other Web Dev things to know or use
 
