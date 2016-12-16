@@ -14,3 +14,5 @@ http://dillinger.io/  - MD online editor
 http://www.slacklist.info/ - slack channel list
 
 https://github.com/lukasz-madon/awesome-remote-job - remote job list
+
+https://github.com/neutraltone/awesome-development-jobs  - awsome dev jobs
