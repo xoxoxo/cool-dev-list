@@ -16,6 +16,8 @@ https://github.com/verekia/js-stack-from-scratch - js stack from scratch
 
 https://github.com/Developer-Y/cs-video-courses - list of cs video courses
 
+https://www.learnelixir.tv/ - elixir video tutorials
+
 
 ### General & Docs
 
@@ -66,6 +68,8 @@ https://hashnode.com/post/zero-to-one-how-i-mastered-javascript-and-how-you-can-
 
 https://codefights.com/ - code and fight vs friends and bots
 
+https://vimeo.com/194968584 - World-Wide Web, not Wealthy Western Web
+
 
 ### Books (free) & Tips
 
@@ -82,4 +86,6 @@ http://speakingjs.com/es5/index.html - speaking javascript
 http://eloquentjavascript.net/ - eloquent js
 
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/ - js design patterns
+
+http://theerlangelist.com/ - blog about erlang
 
