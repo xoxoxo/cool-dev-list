@@ -35,6 +35,8 @@ https://www.dirtymarkup.com/ - make your css/html look nice
 
 http://cssreference.io/ - visual guide to CSS
 
+http://jargon.js.org/ - js jargon
+
 
 ### Other Web Dev things to know or use
 
@@ -69,6 +71,8 @@ https://hashnode.com/post/zero-to-one-how-i-mastered-javascript-and-how-you-can-
 https://codefights.com/ - code and fight vs friends and bots
 
 https://vimeo.com/194968584 - World-Wide Web, not Wealthy Western Web
+
+http://brutelogic.com.br/blog/ - blog about hacking
 
 
 ### Books (free) & Tips
