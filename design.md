@@ -5,6 +5,8 @@
 
 https://uxdesign.cc/design-better-forms-96fadca0f49c#.k7f5p89vz - about forms deisng
 
+https://www.uxpin.com/studio/blog/web-form-design-best-practices-5-useful-ui-patterns-2/ - Web Form Design Best Practices
+
 
 
 ### Style guides
