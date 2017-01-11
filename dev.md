@@ -56,6 +56,8 @@ https://css-tricks.com/nerds-guide-color-web/?utm_source=dlvr.it about colors
 
 https://gist.github.com/jonathanmoore/2640302 - list of share count api
 
+https://github.com/ryanmcdermott/clean-code-javascript - clean code guidlines for js
+
 ### Something to read/play
 
 https://gdstechnology.blog.gov.uk/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/ - why we use progressive enhancment to build gov.uk
