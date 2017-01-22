@@ -58,6 +58,8 @@ https://gist.github.com/jonathanmoore/2640302 - list of share count api
 
 https://github.com/ryanmcdermott/clean-code-javascript - clean code guidlines for js
 
+http://www.thatjsdude.com/interview/js1.html - about js algorithms 
+
 ### Something to read/play
 
 https://gdstechnology.blog.gov.uk/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/ - why we use progressive enhancment to build gov.uk
