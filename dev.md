@@ -37,6 +37,8 @@ http://cssreference.io/ - visual guide to CSS
 
 http://jargon.js.org/ - js jargon
 
+https://github.com/sindresorhus/awesome - awesome list of everything
+
 
 ### Other Web Dev things to know or use
 
