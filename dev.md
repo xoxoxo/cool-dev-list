@@ -99,3 +99,5 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/ - js design pat
 
 http://theerlangelist.com/ - blog about erlang
 
+https://www.ossblog.org/master-javascript-programming-with-open-source-books/ - 18 free js books
+
