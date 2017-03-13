@@ -101,3 +101,5 @@ http://theerlangelist.com/ - blog about erlang
 
 https://www.ossblog.org/master-javascript-programming-with-open-source-books/ - 18 free js books
 
+https://teachyourselfcs.com/ - Teach Yourself Computer Science 
+
