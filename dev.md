@@ -103,3 +103,5 @@ https://www.ossblog.org/master-javascript-programming-with-open-source-books/ - 
 
 https://teachyourselfcs.com/ - Teach Yourself Computer Science 
 
+https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/ - full stack developer list
+
