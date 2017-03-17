@@ -105,3 +105,4 @@ https://teachyourselfcs.com/ - Teach Yourself Computer Science
 
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/ - full stack developer list
 
+https://www.youtube.com/playlist?list=PL3E89002AA9B9879E - Computer Science 61A
