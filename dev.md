@@ -84,7 +84,6 @@ http://brutelogic.com.br/blog/ - blog about hacking
 
 https://github.com/thejameskyle/the-super-tiny-compiler - super tiny compiler - how compiler works
 
-http://jlongster.com/How-I-Became-Better-Programmer - how to become better programmer
 
 
 ### Books (free) & Tips
@@ -112,3 +111,7 @@ https://teachyourselfcs.com/ - Teach Yourself Computer Science
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/ - full stack developer list
 
 https://www.youtube.com/playlist?list=PL3E89002AA9B9879E - Computer Science 61A
+
+http://jlongster.com/How-I-Became-Better-Programmer - how to become better programmer
+
+https://tallys.github.io/color-theory/ - color theory for devs
