@@ -28,6 +28,8 @@ https://medium.theuxblog.com/when-card-ui-design-doesnt-work-f4343118d108#.jb3fo
 http://thenextweb.com/dd/2015/04/10/how-to-design-websites-that-mirror-how-our-eyes-work/ - design website to mirror how eyes work
 
 
-### Books
+### Books && Other Reads
 
 https://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/ - list of free books for web designers
+
+http://luc.devroye.org/fonts.html - about fonts
