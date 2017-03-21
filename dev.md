@@ -35,6 +35,8 @@ https://www.dirtymarkup.com/ - make your css/html look nice
 
 http://cssreference.io/ - visual guide to CSS
 
+http://htmlreference.io/ - visual guide to html
+
 http://jargon.js.org/ - js jargon
 
 https://github.com/sindresorhus/awesome - awesome list of everything
@@ -79,6 +81,10 @@ https://codefights.com/ - code and fight vs friends and bots
 https://vimeo.com/194968584 - World-Wide Web, not Wealthy Western Web
 
 http://brutelogic.com.br/blog/ - blog about hacking
+
+https://github.com/thejameskyle/the-super-tiny-compiler - super tiny compiler - how compiler works
+
+http://jlongster.com/How-I-Became-Better-Programmer - how to become better programmer
 
 
 ### Books (free) & Tips
