@@ -18,6 +18,8 @@ https://github.com/Developer-Y/cs-video-courses - list of cs video courses
 
 https://www.learnelixir.tv/ - elixir video tutorials
 
+https://scotch.io/tutorials/build-a-retrogames-archive-with-node-js-react-redux-and-redux-saga-part3-authentication - node react redux game tutorial
+
 
 ### General & Docs
 
