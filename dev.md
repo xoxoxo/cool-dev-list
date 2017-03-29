@@ -20,6 +20,8 @@ https://www.learnelixir.tv/ - elixir video tutorials
 
 https://scotch.io/tutorials/build-a-retrogames-archive-with-node-js-react-redux-and-redux-saga-part3-authentication - node react redux game tutorial
 
+https://javascript30.com/ - 30 day js tutorial
+
 
 ### General & Docs
 
@@ -64,7 +66,8 @@ https://gist.github.com/jonathanmoore/2640302 - list of share count api
 
 https://github.com/ryanmcdermott/clean-code-javascript - clean code guidlines for js
 
-http://www.thatjsdude.com/interview/js1.html - about js algorithms 
+http://www.thatjsdude.com/interview/js1.html - about js algorithms
+
 
 ### Something to read/play
 
@@ -86,6 +89,9 @@ http://brutelogic.com.br/blog/ - blog about hacking
 
 https://github.com/thejameskyle/the-super-tiny-compiler - super tiny compiler - how compiler works
 
+http://explainshell.com/ - shell commands explenation
+
+http://sijinjoseph.com/programmer-competency-matrix/ - programmer competency matrix
 
 
 ### Books (free) & Tips
@@ -117,3 +123,5 @@ https://www.youtube.com/playlist?list=PL3E89002AA9B9879E - Computer Science 61A
 http://jlongster.com/How-I-Became-Better-Programmer - how to become better programmer
 
 https://tallys.github.io/color-theory/ - color theory for devs
+
+https://github.com/adamwulf/app-launch-guide - app lunch guide
