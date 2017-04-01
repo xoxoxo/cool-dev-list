@@ -93,6 +93,8 @@ http://explainshell.com/ - shell commands explenation
 
 http://sijinjoseph.com/programmer-competency-matrix/ - programmer competency matrix
 
+https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/ - big o notation explenation
+
 
 ### Books (free) & Tips
 
