@@ -95,6 +95,8 @@ http://sijinjoseph.com/programmer-competency-matrix/ - programmer competency mat
 
 https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/ - big o notation explenation
 
+https://gist.github.com/nybblr/3af62797052c42f7090b4f8614b5e157 - async js examples
+
 
 ### Books (free) & Tips
 
