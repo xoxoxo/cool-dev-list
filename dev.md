@@ -22,6 +22,8 @@ https://scotch.io/tutorials/build-a-retrogames-archive-with-node-js-react-redux-
 
 https://javascript30.com/ - 30 day js tutorial
 
+http://viewsourcecode.org/snaptoken/kilo/ - building text editor in c
+
 
 ### General & Docs
 
@@ -97,6 +99,7 @@ https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/ - big o notati
 
 https://gist.github.com/nybblr/3af62797052c42f7090b4f8614b5e157 - async js examples
 
+http://cssgridgarden.com/ - css grid game
 
 ### Books (free) & Tips
 
