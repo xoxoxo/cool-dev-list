@@ -24,6 +24,8 @@ https://javascript30.com/ - 30 day js tutorial
 
 http://viewsourcecode.org/snaptoken/kilo/ - building text editor in c
 
+https://reacttraining.com/online - react tutorials
+
 
 ### General & Docs
 
