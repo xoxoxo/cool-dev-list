@@ -26,6 +26,10 @@ http://viewsourcecode.org/snaptoken/kilo/ - building text editor in c
 
 https://reacttraining.com/online - react tutorials
 
+http://reactivex.io/learnrx/ - learn rsjx
+
+https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 - reactive programing tutorial
+
 
 ### General & Docs
 
