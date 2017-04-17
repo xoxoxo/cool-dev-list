@@ -30,6 +30,8 @@ http://reactivex.io/learnrx/ - learn rxjs
 
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 - reactive programing tutorial
 
+http://michalzalecki.com/use-rxjs-with-react/ - rxjs with react
+
 
 ### General & Docs
 
@@ -138,3 +140,5 @@ http://jlongster.com/How-I-Became-Better-Programmer - how to become better progr
 https://tallys.github.io/color-theory/ - color theory for devs
 
 https://github.com/adamwulf/app-launch-guide - app lunch guide
+
+http://xgrommx.github.io/rx-book/index.html - rx book
