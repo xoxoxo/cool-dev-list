@@ -32,6 +32,8 @@ https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 - reactive programing tutori
 
 http://michalzalecki.com/use-rxjs-with-react/ - rxjs with react
 
+https://auth0.com/blog/understanding-reactive-programming-and-rxjs/ - reactive programing and rxjs
+
 
 ### General & Docs
 
