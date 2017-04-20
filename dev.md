@@ -111,6 +111,7 @@ https://gist.github.com/nybblr/3af62797052c42f7090b4f8614b5e157 - async js examp
 
 http://cssgridgarden.com/ - css grid game
 
+
 ### Books (free) & Tips
 
 http://www.jstips.co/ - daily js tips
@@ -144,3 +145,5 @@ https://tallys.github.io/color-theory/ - color theory for devs
 https://github.com/adamwulf/app-launch-guide - app lunch guide
 
 http://xgrommx.github.io/rx-book/index.html - rx book
+
+https://github.com/brunofacca/zen-rails-security-checklist - rails security checklist
