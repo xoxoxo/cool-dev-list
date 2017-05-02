@@ -34,6 +34,8 @@ http://michalzalecki.com/use-rxjs-with-react/ - rxjs with react
 
 https://auth0.com/blog/understanding-reactive-programming-and-rxjs/ - reactive programing and rxjs
 
+https://medium.com/@wesharehoodies/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e - guide to webpack
+
 
 ### General & Docs
 
