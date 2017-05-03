@@ -24,7 +24,7 @@ https://getmdl.io/index.html - material design library
 https://polaris.shopify.com/ - shopfiy style guide
 
 
-### Books && Other Reads
+### Books & Other Reads
 
 https://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/ - list of free books for web designers
 
