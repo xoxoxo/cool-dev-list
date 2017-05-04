@@ -36,6 +36,8 @@ https://auth0.com/blog/understanding-reactive-programming-and-rxjs/ - reactive p
 
 https://medium.com/@wesharehoodies/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e - guide to webpack
 
+https://github.com/tuvttran/project-based-learning - list of tutorials for variety of languages 
+
 
 ### General & Docs
 
