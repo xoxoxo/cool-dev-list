@@ -38,6 +38,8 @@ https://medium.com/@wesharehoodies/easy-guide-for-webpack-2-0-from-scratch-fe508
 
 https://github.com/tuvttran/project-based-learning - list of tutorials for variety of languages 
 
+https://github.com/iliakan/javascript-tutorial/tree/en - modern js tutorial
+
 
 ### General & Docs
 
