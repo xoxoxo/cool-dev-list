@@ -119,6 +119,8 @@ http://cssgridgarden.com/ - css grid game
 
 https://mgechev.github.io/javascript-algorithms/ - js algorithms
 
+https://dev.to/ - various dev articles
+
 
 ### Books (free) & Tips
 
