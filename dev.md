@@ -161,3 +161,5 @@ https://github.com/brunofacca/zen-rails-security-checklist - rails security chec
 https://github.com/vhf/free-programming-books - free programming books 
 
 https://tomassetti.me/resources-create-programming-languages/ - recources to create programming languages
+
+http://natureofcode.com/book/ - nature of code 
