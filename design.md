@@ -37,3 +37,5 @@ https://medium.theuxblog.com/when-card-ui-design-doesnt-work-f4343118d108#.jb3fo
 http://thenextweb.com/dd/2015/04/10/how-to-design-websites-that-mirror-how-our-eyes-work/ - design website to mirror how eyes work
 
 http://designwithfontforge.com/en-US/index.html - book about designing typefaces using fontforge
+
+https://www.uxpin.com/studio/ebooks/web-ui-design-trends-2017/ - web design trends 2017
