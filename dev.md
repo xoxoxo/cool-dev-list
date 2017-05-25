@@ -121,6 +121,8 @@ https://mgechev.github.io/javascript-algorithms/ - js algorithms
 
 https://dev.to/ - various dev articles
 
+http://www.lofibucket.com/articles/64k_intro.html - how to make 64k intro
+
 
 ### Books (free) & Tips
 
