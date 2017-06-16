@@ -125,6 +125,8 @@ http://www.lofibucket.com/articles/64k_intro.html - how to make 64k intro
 
 http://www.yegor256.com/2016/02/03/design-patterns-and-anti-patterns.html - design patterns and anti patterns
 
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit - websites that dev should visit
+
 
 ### Books (free) & Tips
 
