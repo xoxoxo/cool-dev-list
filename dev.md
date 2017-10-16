@@ -40,6 +40,7 @@ https://github.com/tuvttran/project-based-learning - list of tutorials for varie
 
 https://github.com/iliakan/javascript-tutorial/tree/en - modern js tutorial
 
+https://github.com/adambard/learnxinyminutes-docs - code docs
 
 ### General & Docs
 
