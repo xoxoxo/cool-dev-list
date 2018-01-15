@@ -42,6 +42,8 @@ https://github.com/iliakan/javascript-tutorial/tree/en - modern js tutorial
 
 https://github.com/adambard/learnxinyminutes-docs - code docs
 
+https://medium.com/@trukrs/write-your-own-library-in-1kb-b4a41505a7d7 - your own library in 1kb
+
 ### General & Docs
 
 http://devdocs.io/ - dev docs
@@ -87,6 +89,8 @@ https://github.com/ryanmcdermott/clean-code-javascript - clean code guidlines fo
 
 http://www.thatjsdude.com/interview/js1.html - about js algorithms
 
+https://www.robinwieruch.de/neural-networks-deeplearnjs-javascript/ - neural networks with js
+
 
 ### Something to read/play
 
@@ -128,6 +132,13 @@ http://www.yegor256.com/2016/02/03/design-patterns-and-anti-patterns.html - desi
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit - websites that dev should visit
 
+https://blog.logrocket.com/isolating-memory-leaks-with-chromes-allocation-timeline-244fa9c48e8e - isolating memory leaks
+
+https://news.ycombinator.com/item?id=15694118 - scraping web 
+
+https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e - cost of js 
+
+https://norasandler.com/2017/11/29/Write-a-Compiler.html - writing c compolier
 
 ### Books (free) & Tips
 
