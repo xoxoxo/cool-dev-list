@@ -44,6 +44,8 @@ https://github.com/adambard/learnxinyminutes-docs - code docs
 
 https://medium.com/@trukrs/write-your-own-library-in-1kb-b4a41505a7d7 - your own library in 1kb
 
+https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 - The introduction to Reactive Programming
+
 ### General & Docs
 
 http://devdocs.io/ - dev docs
@@ -65,6 +67,8 @@ http://htmlreference.io/ - visual guide to html
 http://jargon.js.org/ - js jargon
 
 https://github.com/sindresorhus/awesome - awesome list of everything
+
+https://www.datascienceatthecommandline.com/index.html - Data Science at the Command Line
 
 
 ### Other Web Dev things to know or use
@@ -139,6 +143,10 @@ https://news.ycombinator.com/item?id=15694118 - scraping web
 https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e - cost of js 
 
 https://norasandler.com/2017/11/29/Write-a-Compiler.html - writing c compolier
+
+https://medium.com/@baphemot/understanding-cors-18ad6b478e2b - Understanding CORS
+
+https://medium.com/@kelin2025/writing-js-libraries-less-than-1tb-size-6342da0c006a - Writing JS libraries less than 1TB size
 
 ### Books (free) & Tips
 
