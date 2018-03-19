@@ -95,6 +95,8 @@ http://www.thatjsdude.com/interview/js1.html - about js algorithms
 
 https://www.robinwieruch.de/neural-networks-deeplearnjs-javascript/ - neural networks with js
 
+https://www.sqreen.io/checklists/saas-cto-security-checklist - saas security checklist
+
 
 ### Something to read/play
 
