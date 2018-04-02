@@ -46,6 +46,14 @@ https://medium.com/@trukrs/write-your-own-library-in-1kb-b4a41505a7d7 - your own
 
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 - The introduction to Reactive Programming
 
+https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc - Absolute Beginning into Machine Learning
+
+https://www.robinwieruch.de/machine-learning-javascript-web-developers/ - A Web Developer's Guide to Machine Learning in JavaScript
+
+https://developers.google.com/machine-learning/crash-course/ - Machine Learning Crash Course
+
+https://developers.google.com/edu/c++/ - C++ from google
+
 ### General & Docs
 
 http://devdocs.io/ - dev docs
@@ -96,6 +104,10 @@ http://www.thatjsdude.com/interview/js1.html - about js algorithms
 https://www.robinwieruch.de/neural-networks-deeplearnjs-javascript/ - neural networks with js
 
 https://www.sqreen.io/checklists/saas-cto-security-checklist - saas security checklist
+
+https://mitchgavan.com/redux-state-updates-with-ramda-part-1/ - Redux state updates with Ramda
+
+https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/ -  A Practical Introduction to Container Terminology
 
 
 ### Something to read/play
@@ -150,6 +162,22 @@ https://medium.com/@baphemot/understanding-cors-18ad6b478e2b - Understanding COR
 
 https://medium.com/@kelin2025/writing-js-libraries-less-than-1tb-size-6342da0c006a - Writing JS libraries less than 1TB size
 
+https://blog.keras.io/user-experience-design-for-apis.html - user experience design for api
+
+http://jcdav.is/2016/09/01/How-the-JVM-compares-your-strings/ - How the JVM compares your strings using the craziest x86 instruction you've never heard of
+
+https://ecc-comp.blogspot.co.uk/2018/02/age-of-empires-2-scenario-editor-is.html - AOE2 is turing complete
+
+http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html - Accidentally Turing-Complete
+
+https://www.wykop.pl/cdn/c3201142/comment_VvQC5ujVyvwsAyhNXbhKAOHx2u07h7sd.jpg - programing challenges
+
+https://github.com/mbasso/awesome-wasm - Curated list of awesome things regarding WebAssembly 
+
+
+http://www.mattzeunert.com/2018/01/25/v8-javascript-memory-quiz.html - V8 memory quiz
+
+
 ### Books (free) & Tips
 
 http://www.jstips.co/ - daily js tips
@@ -193,3 +221,7 @@ https://tomassetti.me/resources-create-programming-languages/ - recources to cre
 http://natureofcode.com/book/ - nature of code 
 
 https://github.com/getify/Functional-Light-JS - functional light js
+
+https://www.haroldserrano.com/blog/best-books-to-develop-a-game-engine?rq=books - Best books on Game Engine Development
+
+https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine - Books I had to read to develop a game engine
