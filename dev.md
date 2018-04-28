@@ -54,6 +54,8 @@ https://developers.google.com/machine-learning/crash-course/ - Machine Learning 
 
 https://developers.google.com/edu/c++/ - C++ from google
 
+https://dev.to/spboyer/getting-started-with-net-core-2bf9 - Getting started with .NET Core
+
 ### General & Docs
 
 http://devdocs.io/ - dev docs
@@ -174,8 +176,20 @@ https://www.wykop.pl/cdn/c3201142/comment_VvQC5ujVyvwsAyhNXbhKAOHx2u07h7sd.jpg -
 
 https://github.com/mbasso/awesome-wasm - Curated list of awesome things regarding WebAssembly 
 
-
 http://www.mattzeunert.com/2018/01/25/v8-javascript-memory-quiz.html - V8 memory quiz
+
+https://dev.to/frosnerd/hit-me-baby-one-more-time---what-are-cache-hits-and-why-should-you-care-4500 - What Are Cache Hits and Why Should You Care?
+
+https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2 -Using web workers for safe, concurrent JavaScript
+
+https://medium.com/dailyjs/decoupling-business-logic-using-async-generators-cc257f80ab33 - Decouple Business Logic using Async Generators
+
+https://brandur.org/rust-web - Touring a Fast, Safe, and Complete(ish) Web Service in Rust 
+
+https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf - High Responsiveness for Group Editing CRDTs
+
+http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/ - riting a Microservice in Rust
+
 
 
 ### Books (free) & Tips
@@ -225,3 +239,5 @@ https://github.com/getify/Functional-Light-JS - functional light js
 https://www.haroldserrano.com/blog/best-books-to-develop-a-game-engine?rq=books - Best books on Game Engine Development
 
 https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine - Books I had to read to develop a game engine
+
+https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/ - Web Application Penetration Testing Cheat Sheet 
