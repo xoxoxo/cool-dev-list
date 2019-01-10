@@ -56,6 +56,12 @@ https://developers.google.com/edu/c++/ - C++ from google
 
 https://dev.to/spboyer/getting-started-with-net-core-2bf9 - Getting started with .NET Core
 
+https://github.com/miloyip/game-programmer - A Study Path for Game Programmer
+
+https://flaviocopes.com/javascript-regular-expressions/ - https://flaviocopes.com/javascript-regular-expressions/
+
+
+
 ### General & Docs
 
 http://devdocs.io/ - dev docs
