@@ -58,9 +58,13 @@ https://dev.to/spboyer/getting-started-with-net-core-2bf9 - Getting started with
 
 https://github.com/miloyip/game-programmer - A Study Path for Game Programmer
 
-https://flaviocopes.com/javascript-regular-expressions/ - https://flaviocopes.com/javascript-regular-expressions/
+https://flaviocopes.com/javascript-regular-expressions/ - A guide to JavaScript Regular Expressions
 
+http://cs.lmu.edu/~ray/notes/x86assembly/ - x86 Assembly Language Programming
 
+https://www.nand2tetris.org/ - Nand to Tetris courses
+
+http://buildyourownlisp.com/ - Build Your Own Lisp
 
 ### General & Docs
 
@@ -116,6 +120,13 @@ https://www.sqreen.io/checklists/saas-cto-security-checklist - saas security che
 https://mitchgavan.com/redux-state-updates-with-ramda-part-1/ - Redux state updates with Ramda
 
 https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/ -  A Practical Introduction to Container Terminology
+
+
+
+https://medium.com/@web.development/high-performance-load-balancing-with-nginx-part-1-of-3-26e0e805bbcf - High-Performance Load Balancing with NGINX
+
+https://medium.com/employbl/how-i-optimized-seo-and-found-my-search-terms-for-employbl-com-7d7881176406 - How to optimize your website for search engines
+
 
 
 ### Something to read/play
@@ -196,7 +207,20 @@ https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf - High Respo
 
 http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/ - riting a Microservice in Rust
 
+https://internalregister.github.io/2019/03/14/Homebrew-Console.html - Building a 'Homebrew' Video Game Console
 
+
+https://www.pcjs.org/ - PCjs Machines
+
+
+https://codon.com/compilers-for-free - Compilers for Free
+
+https://github.com/ssloy/tinyraytracer/wiki - Understandable RayTracing in 256 lines of bare C++
+
+https://www.youtube.com/watch?v=lZGHbMS882w - Building a CPU from Scratch
+
+
+http://noel.feld.cvut.cz/hw/amd/90005a.pdf - State Machine Design
 
 ### Books (free) & Tips
 
