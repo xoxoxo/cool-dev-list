@@ -222,6 +222,17 @@ https://www.youtube.com/watch?v=lZGHbMS882w - Building a CPU from Scratch
 
 http://noel.feld.cvut.cz/hw/amd/90005a.pdf - State Machine Design
 
+
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html - The Clean Code Blog
+
+https://hackernoon.com/functional-javascript-functors-monads-and-promises-679ce2ab8abe - unctors, Monads, and Promises
+
+https://nelari.us/post/raytracer_with_rust_and_zig/ - Writing a small ray tracer in Rust and Zig
+
+https://snyk.io/blog/nodejs-how-even-quick-async-functions-can-block-the-event-loop-starve-io/ - How even quick async functions can block the Event-Loop, starve I/O
+
+https://www.mattzeunert.com/2018/01/25/v8-javascript-memory-quiz.html - V8 memory quiz
+
 ### Books (free) & Tips
 
 http://www.jstips.co/ - daily js tips
@@ -271,3 +282,7 @@ https://www.haroldserrano.com/blog/best-books-to-develop-a-game-engine?rq=books 
 https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine - Books I had to read to develop a game engine
 
 https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/ - Web Application Penetration Testing Cheat Sheet 
+
+http://joe90.yolasite.com/resources/InsidetheMachine.pdf - An Illustrated Introduction to
+Microprocessors and Computer Architecture
+
