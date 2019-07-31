@@ -286,3 +286,8 @@ https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
 http://joe90.yolasite.com/resources/InsidetheMachine.pdf - An Illustrated Introduction to
 Microprocessors and Computer Architecture
 
+
+http://www.cis.upenn.edu/~jean/math-basics.pdf - Algebra, Topology, Differential Calculus, and
+Optimization Theory
+For Computer Science and Machine Learning
+
