@@ -66,6 +66,8 @@ https://www.nand2tetris.org/ - Nand to Tetris courses
 
 http://buildyourownlisp.com/ - Build Your Own Lisp
 
+https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course - Introducing the Rust crash course
+
 ### General & Docs
 
 http://devdocs.io/ - dev docs
@@ -232,6 +234,21 @@ https://nelari.us/post/raytracer_with_rust_and_zig/ - Writing a small ray tracer
 https://snyk.io/blog/nodejs-how-even-quick-async-functions-can-block-the-event-loop-starve-io/ - How even quick async functions can block the Event-Loop, starve I/O
 
 https://www.mattzeunert.com/2018/01/25/v8-javascript-memory-quiz.html - V8 memory quiz
+
+http://blog.ret2.io/2018/07/11/pwn2own-2018-jsc-exploit/ - Weaponization of a JavaScriptCore Vulnerability
+
+https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob - Why Facebook's api starts with a for loop
+
+https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3 - Designing very large (JavaScript) applications
+
+http://dmitrysoshnikov.com/courses/essentials-of-garbage-collectors/ - Essentials of Garbage Collectors
+
+https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc - Everything you need to know about Node.js
+
+https://manybutfinite.com/post/how-computers-boot-up/ - How Computers Boot Up
+
+
+
 
 ### Books (free) & Tips
 
